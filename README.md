@@ -1,7 +1,7 @@
 # chatapp
 Simple chat based application using reactjs and redux
 
-This appication was created to show simple usage of redux in react js applications
+This application was created to show simple usage of redux in react js applications
 
 ### Live demo:https://smhatre59.github.io/chatapp/
 
